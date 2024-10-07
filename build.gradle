@@ -15,8 +15,6 @@ buildscript {
 }
 
 allprojects {
-  int x = 4;
-  int z = 2;
   apply plugin: 'eclipse'
   apply plugin: 'idea'
 
